@@ -1,0 +1,8 @@
+[music]
+https://makotohiramatsu.itch.io/hiding-place
+
+[sound]
+freesounds.org
+
+[models]
+mixamo.com
